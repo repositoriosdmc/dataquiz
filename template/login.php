@@ -297,7 +297,7 @@ input {
 
 				<div style="text-align:center" ><img src="../img/logo secundario dmc institute-02.png"  width="70%"></div>
 
-				<p style="text-align:center; color:white" class="pt-4" >Ingrese sus datos de acceso2.</p>
+				<p style="text-align:center; color:white" class="pt-4" >Ingrese sus datos de acceso23.</p>
 
 
 
