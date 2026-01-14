@@ -1,0 +1,1294 @@
+[09-Jul-2024 02:01:04 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 02:01:04 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 03:01:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 03:01:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 04:01:03 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 04:01:03 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 05:01:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 05:01:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 06:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 06:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 07:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 07:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 08:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 08:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 08:51:29 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 08:51:37 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 09:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 09:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 10:01:07 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 10:01:07 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 10:09:01 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 10:09:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 11:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 11:12:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:13:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:25:47 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:25:51 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:28:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:29:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 12:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 12:05:57 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 13:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 13:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 13:08:34 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 13:08:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 13:08:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 13:42:44 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 14:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 14:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 14:13:33 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 14:13:41 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 14:13:47 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 14:13:59 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 15:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 16:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 16:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 16:01:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 16:02:15 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 16:03:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 17:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 17:16:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:29:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:29:56 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:44:12 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:50:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:53:17 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:53:21 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:53:29 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:53:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:53:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:53:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 18:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 18:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 18:55:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 18:55:56 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 18:56:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 18:57:00 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 19:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 19:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 20:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 20:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 20:16:51 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 20:24:45 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 20:34:51 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 20:36:47 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 20:47:23 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 21:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 21:12:23 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:12:31 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 22:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 22:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[09-Jul-2024 22:47:23 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 22:47:29 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 22:48:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 23:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[09-Jul-2024 23:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 00:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 00:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 00:17:43 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 00:17:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 00:27:47 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 01:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 01:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 02:01:07 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 02:01:07 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 03:01:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 03:01:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 04:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 04:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 05:01:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 05:01:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 06:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 06:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 07:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 07:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 08:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 08:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 09:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 09:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 09:11:20 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:11:27 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:14:07 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:49:19 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 10:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 10:09:26 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:09:30 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:09:36 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:09:45 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:10:14 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:10:18 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:43:04 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:43:07 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:44:25 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 11:01:07 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 11:01:07 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 11:26:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 11:27:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 12:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 12:04:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:08:28 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:09:01 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:09:46 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:09:58 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:10:13 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:51:28 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 13:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 13:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 14:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 14:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 14:39:22 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 14:39:27 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 15:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 15:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 16:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 16:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 17:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 17:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 18:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 18:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 19:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 19:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 20:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 20:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 21:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 21:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 21:06:24 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 22:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 22:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[10-Jul-2024 23:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[10-Jul-2024 23:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 00:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 00:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 01:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 01:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 02:01:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 02:01:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 03:01:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 03:01:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 04:01:07 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 04:01:07 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 05:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 05:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 06:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 06:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 07:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 07:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 08:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 08:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 09:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 09:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 10:01:12 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 10:01:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 11:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 11:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 12:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 12:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 12:07:17 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 12:07:49 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 13:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 13:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 14:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 14:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 15:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 15:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 16:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 16:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 17:01:14 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 17:01:14 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 18:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 18:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 19:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 19:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 20:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 20:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 21:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 21:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 22:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 22:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 23:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[11-Jul-2024 23:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[11-Jul-2024 23:09:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 23:09:40 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 00:01:12 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 00:01:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 01:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 01:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 02:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 02:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 03:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 03:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 04:01:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 04:01:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 05:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 05:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 06:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 06:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 07:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 07:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 08:01:12 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 08:01:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 09:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 09:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 09:04:46 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 10:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 10:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 11:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 11:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 12:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 12:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 13:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 13:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 14:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 14:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 14:31:52 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:31:57 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:54:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 15:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 15:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 15:08:12 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 16:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 16:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 17:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 17:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 18:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 18:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 19:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 19:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 20:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 20:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 21:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 21:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 22:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 22:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[12-Jul-2024 23:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[12-Jul-2024 23:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 00:01:12 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 00:01:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 01:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 01:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 02:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 02:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 03:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 03:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 04:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 04:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 05:01:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 05:01:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 06:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 06:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 07:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 07:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 08:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 08:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 09:01:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 09:01:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 10:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 10:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 11:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 11:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 12:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 12:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 13:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 13:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 14:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 14:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 15:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 15:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 16:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 16:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 17:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 17:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 18:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 18:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 19:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 19:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 20:01:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 20:01:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 21:01:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 21:01:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 22:01:18 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 22:01:18 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[13-Jul-2024 23:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[13-Jul-2024 23:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[14-Jul-2024 00:01:15 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[14-Jul-2024 00:01:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[14-Jul-2024 01:01:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[14-Jul-2024 01:01:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34
+[14-Jul-2024 02:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 40
+[14-Jul-2024 02:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(34): PDO->__construct('mysql:host=srv1...', 'u654289816_uFbM...', 'Jz>d^!QGXh5[')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php(11): GestionbdDMC->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(17): GestionbdDMC::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(204): lista_pagos()
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_carrito.php(329): procesoRegistro('')
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd_dmc.php on line 34

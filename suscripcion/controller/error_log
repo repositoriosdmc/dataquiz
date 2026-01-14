@@ -1,0 +1,1388 @@
+[09-Jul-2024 08:51:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 08:51:54 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 11:11:58 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:11:58 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:11:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '37a749d808e4649...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 11:12:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:12:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:12:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '67c6a1e7ce56d3d...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 11:12:31 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:12:31 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:12:31 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '0fcbc61acd0479d...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 11:12:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:12:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:12:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'bf8229696f7a3bb...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:03:49 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:03:49 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:03:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'dc82d632c9fcecb...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:02 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:02 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:02 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '13fe9d84310e77f...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:37 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:37 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:37 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'ec5decca5ed3d6b...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:41 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:41 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '4e0cb6fb5fb446d...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:42 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:42 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:42 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '6a9aeddfc689c1d...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:42 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:42 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:42 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '76dc611d6ebaafc...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:43 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:43 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:43 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '6aca97005c68f12...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:46 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:46 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '85fc37b18c57097...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:50 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '39461a19e9eddfb...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:50 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '677e09724f0e2df...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:50 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '500e75a036dc2d7...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:05:51 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:51 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:05:51 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'aa942ab2bfa6ebd...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:17:49 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:17:49 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:17:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '821fa74b50ba3f7...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:17:57 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:17:57 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:17:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '4b0250793549726...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:18:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:18:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:18:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '839ab46820b524a...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:18:27 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:18:27 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:18:27 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '051e4e127b92f5d...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:27:02 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:27:02 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:27:02 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '51d92be1c60d1db...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:27:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:27:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:27:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'aff1621254f7c1b...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:27:15 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:27:15 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:27:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'f64eac11f2cd8f0...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:27:18 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:27:18 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:27:18 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '941e1aaaba585b9...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:54:24 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:54:24 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:54:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'bc6dc48b743dc5d...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 12:54:52 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:54:52 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 12:54:52 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '05049e90fa4f503...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 14:14:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 14:14:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 14:15:47 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 14:15:47 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 14:16:03 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 14:16:03 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:42 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:42 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:42 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'aff1621254f7c1b...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:52 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:52 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:52 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'd9fc5b73a8d78fa...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '7eabe3a1649ffa2...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '1fc214004c9481e...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:54 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '0f9661323506296...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:54 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '26408ffa703a72e...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:54 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '20f07591c6fcb22...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '766ebcd59621e30...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'e70611883d2760c...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:00:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:00:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '71a3cb155f8dc89...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:01:03 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:01:03 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:01:03 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '72da7fd6d1302c0...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:01:12 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:01:12 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:01:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '5c572eca050594c...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 15:02:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:02:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 15:02:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'bd686fd640be98e...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 16:03:27 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 16:03:27 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 16:03:27 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(865): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(241): dao_formularioLogin->activarCuenta(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 16:04:07 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 16:04:07 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 16:04:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 16:04:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 17:17:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:17:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:17:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'f7e6c85504ce6e8...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 17:38:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:38:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:38:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '2a9d121cd9c3a18...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 17:38:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:38:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:38:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'c2aee86157b4a40...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 17:38:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:38:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:38:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '087408522c31eeb...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 17:38:59 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:38:59 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:38:59 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'fa83a11a198d5a7...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 17:39:01 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:39:01 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:39:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '428fca9bc1921c2...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 21:11:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:11:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:11:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'a4300b002bcfb71...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 21:11:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:11:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:11:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '10a7cdd970fe135...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 21:12:51 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:12:51 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:12:51 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '72b32a1f754ba1c...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 21:12:58 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:12:58 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:12:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'e369853df766fa4...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 21:13:47 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:13:47 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:13:47 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '19ca14e7ea6328a...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 21:16:19 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:16:19 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 21:16:19 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '2f2b265625d76a6...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 22:44:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 22:44:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscripcion.php(587): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscritos_encuesta.php(237): suscripcion->registrar_contacto(Array)
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscritos_encuesta.php(213): suscritos_dmc->registrar_ficha_contacto(Array)
+#5 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_suscrito_curso_gratis.php(9): suscritos_dmc->registrar_proceso_encuesta_kayrus(Array)
+#6 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 01:44:04 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 01:44:04 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscripcion.php(587): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscritos_encuesta.php(237): suscripcion->registrar_contacto(Array)
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscritos_encuesta.php(213): suscritos_dmc->registrar_ficha_contacto(Array)
+#5 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_suscrito_curso_gratis.php(9): suscritos_dmc->registrar_proceso_encuesta_kayrus(Array)
+#6 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 07:43:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '142949df56ea8ae...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 07:43:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'd18f655c3fce66c...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 07:43:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:54 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:54 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'c20ad4d76fe9775...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 07:43:57 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:57 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '4f6ffe13a5d75b2...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 07:43:59 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:59 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:43:59 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'ec5aa0b7846082a...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 07:44:02 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:44:02 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:44:02 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '5dd9db5e033da9c...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 07:44:03 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:44:03 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 07:44:03 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '7b13b2203029ed8...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:10:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:11 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'c9892a989183de3...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:10:15 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:15 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'df6d2338b2b8fce...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:10:20 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:20 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:20 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '06409663226af2f...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:10:23 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:23 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:23 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'a760880003e7dde...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:10:33 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:33 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'b55ec28c52d5f62...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:10:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'e49b8b4053df950...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:10:37 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:37 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:37 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '0353ab4cbed5bea...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:10:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'dd458505749b294...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:10:42 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:42 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:10:42 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'd34ab169b70c9dc...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 08:59:57 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:59:57 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 08:59:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'b4a528955b84f58...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 09:00:07 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:00:07 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:00:07 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'e5f6ad6ce374177...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 09:12:24 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:12:24 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:12:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '58a2fc6ed39fd08...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 09:13:26 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:13:26 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:13:26 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '6aca97005c68f12...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 09:14:29 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:14:29 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 09:16:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:16:05 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:16:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'fae0b27c451c728...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 09:16:26 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:16:26 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 09:49:04 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:49:04 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:49:04 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '8d7d8ee069cb0cb...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 09:50:21 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:50:21 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 09:53:28 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:53:28 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 09:53:28 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '48ab2f9b45957ab...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 10:14:58 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:14:58 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:14:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '1ce927f87586409...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 10:43:41 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:43:41 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:43:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'a3f390d88e4c41f...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 10:43:56 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:43:56 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:43:56 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '72b32a1f754ba1c...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 10:44:14 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:44:14 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:44:14 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '42e7aaa88b48137...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 10:44:16 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:44:16 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 10:44:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'a4300b002bcfb71...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 11:11:01 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 11:11:01 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 11:11:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'b5dc4e5d9b495d0...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 11:58:23 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 11:58:23 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 11:58:23 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'fc490ca45c00b12...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 11:59:34 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 11:59:34 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 11:59:34 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '3cf166c6b73f030...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:00:04 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:00:04 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:00:04 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '8c19f571e251e61...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:00:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:00:09 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:00:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'c06d06da9666a21...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:00:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:00:10 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:00:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '5c936263f3428a4...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:06 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'bac9162b47c56fc...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:01:28 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:28 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:28 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'd1f491a404d6854...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:01:31 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:31 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:31 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '45645a27c4f1adc...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:01:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:32 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'cfa0860e83a4c3a...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:01:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:32 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '274ad4786c3abca...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:01:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:32 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'fe7ee8fc1959cc7...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:01:33 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:33 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'a8f15eda80c50ad...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:01:33 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:33 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:01:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'e5841df2166dd42...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:04:44 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:44 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:44 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'd5cfead94f5350c...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:04:46 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:46 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '8d6dc35e506fc23...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:04:47 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:47 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:47 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '7c590f01490190d...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:04:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '6c8349cc7260ae6...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:04:49 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:49 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '8c6744c9d42ec2c...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:04:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:50 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:04:50 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '89fcd07f20b6785...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:05:36 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:36 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:36 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '9fd81843ad7f202...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:05:37 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:37 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:37 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'e4a6222cdb5b343...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:05:38 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:38 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'c410003ef13d451...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:05:38 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:38 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '1534b76d325a8f5...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:05:38 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:38 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'b2f627fff19fda4...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:05:38 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:38 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '24b16fede9a67c9...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:05:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '3def184ad8f4755...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:05:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:05:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:22:41 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:22:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:35:22 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:35:22 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:35:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '019d385eb67632a...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:35:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:35:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:35:32 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '0f49c89d1e7298b...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 12:35:34 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:35:34 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 12:35:34 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '9232fe81225bcae...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 17:16:19 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 17:16:19 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 17:16:19 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'caf1a3dfb505ffe...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 17:16:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 17:16:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[10-Jul-2024 17:17:41 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[10-Jul-2024 17:17:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[11-Jul-2024 01:18:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 01:18:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscripcion.php(587): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscritos_encuesta.php(237): suscripcion->registrar_contacto(Array)
+#4 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscritos_encuesta.php(213): suscritos_dmc->registrar_ficha_contacto(Array)
+#5 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_suscrito_curso_gratis.php(9): suscritos_dmc->registrar_proceso_encuesta_kayrus(Array)
+#6 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[11-Jul-2024 09:08:14 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 09:08:14 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 09:08:14 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'b1a59b315fc9a30...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[11-Jul-2024 12:07:57 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 12:07:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[11-Jul-2024 14:08:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 14:08:55 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 14:08:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'b7bb35b9c6ca2ae...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[11-Jul-2024 14:09:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 14:09:08 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 14:09:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '96b9bff013acedf...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[11-Jul-2024 23:08:22 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 23:08:22 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 23:08:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'fc3cf452d3da840...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[11-Jul-2024 23:09:17 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 23:09:17 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[11-Jul-2024 23:09:17 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, '1f4477bad7af361...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[12-Jul-2024 01:33:46 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 01:33:46 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 01:33:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'a64c94baaf368e1...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[12-Jul-2024 10:34:24 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 10:34:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLoginReset.php(14): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin_reset.php(22): dao_formularioLoginReset->consultaDatos(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[12-Jul-2024 14:31:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:31:48 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:31:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(865): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(241): dao_formularioLogin->activarCuenta(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[12-Jul-2024 14:31:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:31:53 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:31:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(865): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(241): dao_formularioLogin->activarCuenta(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[12-Jul-2024 14:54:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:54:32 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:54:32 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(865): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(241): dao_formularioLogin->activarCuenta(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[12-Jul-2024 14:56:04 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:56:04 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[12-Jul-2024 14:56:04 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(865): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(241): dao_formularioLogin->activarCuenta(Array)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[14-Jul-2024 01:27:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[14-Jul-2024 01:27:35 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[14-Jul-2024 01:27:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(657): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/controller/controller_formularioLogin.php(814): dao_formularioLogin->registrarUsuario(Array, 'acc3e0404646c57...')
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34

@@ -1,0 +1,115 @@
+.col-md-4{
+    padding: 0;
+}
+.banner{
+    background-color: #2A7BB7; 
+    color: #fefefe;
+    text-align:center;
+    padding: 35px 0;
+}
+.banner .slogan{
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+.pasos{
+    background: white url(https://survey.dmc.pe/suscripcion/assets/img/particulas.png);
+    background-repeat: repeat;
+    background-size: cover;
+    text-align: center;
+    color: #bab9b9;
+    padding: 0 20px;
+    padding-bottom: 20px;
+}
+
+.pasos .primer-texto{
+    display: inline-block;
+    background: #f3f3f3;
+    color: #2A7BB7;
+    font-size: 17px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-weight: 500;
+    padding: 3px 16px;
+}
+
+.pasos .segundo-texto{
+    position: relative;
+    font-size: 19px;
+    margin-bottom: 45px;
+}
+
+.pasos .segundo-texto:after{
+    content: '';
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: -21px;
+    text-align: center;
+    width: 25%;
+    height: 2px;
+    background: #dbdbdb;
+}
+
+.capacitacion{
+    margin-top:15px;
+}
+
+.capacitacion select{
+    outline: none;
+    width: 100%;
+    background: #2A7BB7;
+    border: none;
+    color: white;  
+    padding: 6px 26px;
+    border-radius: 6px;
+    /*-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;*/
+    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E');
+	background-repeat: no-repeat, repeat;
+	background-position: left .7em top 50%, 0 0;
+	background-size: .65em auto, 100%;
+}
+
+.capacitacion .contenido{
+    padding: 21px 14px;
+    padding-top: 31px;
+    background: #f6f6f6;
+    border-radius: 6px;
+    margin-top: -5px;
+    font-size: 17px;
+    color: #b6b6b6;
+    text-align: left;
+}
+
+.boton,.boton:hover{
+    border: none;
+    outline: none;
+    background: #2A7BB7;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 5px 36px;
+    text-decoration: none;
+}
+
+.regresar{
+    position: relative;
+    text-align: left;
+    bottom: -22px;
+}
+
+.iti{
+    display: block;
+}
+
+.error {
+    color: #fa6b6b;
+    text-align: left;
+    display: inherit;
+    margin-top: 2px;
+    font-size: .85em;
+    padding-left: 8px;
+}

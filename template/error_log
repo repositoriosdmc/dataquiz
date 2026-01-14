@@ -1,0 +1,21 @@
+[09-Jul-2024 11:18:39 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 11:18:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(285): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/template/GraciasPuntajeConcurso.php(9): dao_formularioLogin->porcentajeCertificaciones(NULL, NULL, NULL)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[09-Jul-2024 17:53:11 America/Lima] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:53:11 America/Lima] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:53:11 America/Lima] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[09-Jul-2024 17:53:11 America/Lima] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(69): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_formularioLogin.php(57): dao_formularioLogin->validacionUsuarioInicio(NULL, NULL)
+#4 /home1/intradmc/certificaciones.dmc.pe/template/formulario-concurso-data.php(33): dao_formularioLogin->ejecutarFlujoFicha('22', NULL, NULL)
+#5 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34

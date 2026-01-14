@@ -1,0 +1,18 @@
+[13-Jul-2024 08:58:22 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[13-Jul-2024 08:58:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscripcion.php(52): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/ajax/visitasW.php(16): suscripcion->registrar_visita('Desktop', 'Chrome', 'Windows', '', '40.77.190.148', NULL)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
+[13-Jul-2024 15:30:15 America/Chicago] PHP Warning:  error_log(../log/Error.log): failed to open stream: No such file or directory in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 40
+[13-Jul-2024 15:30:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php:34
+Stack trace:
+#0 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(34): PDO->__construct('mysql:host=34.1...', 'admin', 'Iok%FLU3g#S^4sa...')
+#1 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php(11): Gestionbd->__construct()
+#2 /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/dao_suscripcion.php(52): Gestionbd::getInstancia()
+#3 /home1/intradmc/certificaciones.dmc.pe/suscripcion/ajax/visitasW.php(16): suscripcion->registrar_visita('Mobile', 'Chrome', 'Android', '', '66.249.72.64', NULL)
+#4 {main}
+  thrown in /home1/intradmc/certificaciones.dmc.pe/suscripcion/dao/gestionbd.php on line 34
