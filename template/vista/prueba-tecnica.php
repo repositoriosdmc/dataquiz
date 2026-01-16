@@ -43,27 +43,24 @@
 
 
       <?php 
-   // Datos de SMOWL
-    $entityName = 'PEDMC'; // Smowltech 
-    $secretKey = '7db40721dc20ca1373f99c84e521a22527f15c8a'; // Smowltech 
-    $token = "ed0fb392b022afd509bda83f0745075dfa2212f0"; //Smowltech 
+   // Cargar configuración desde archivo externo
+   require_once '../../config/config.php';
     
-    // Datos del usuario
-    $userName = "carlos";
-    $userEmail = "carlosmorih33@gmail.com";
-    $lang = 'es'; // Idioma español
-    $activityUrl = 'https://certificaciones.dmc.pe/suscripcion/inicio_formulario';
+    // Datos de SMOWL desde configuración
+    $entityName = SMOWL_ENTITY_NAME;
+    $secretKey = SMOWL_SECRET_KEY;
+    $token = SMOWL_TOKEN;
+    
+    // Datos del usuario desde configuración
+    $userName = TEST_USER_NAME;
+    $userEmail = TEST_USER_EMAIL;
+    $lang = APP_LANG;
+    $activityUrl = APP_BASE_URL;
     
     
    // $smowlUrl = "https://app.smowltech.net/register/?entityName={$entityName}&token={$token}&userName=" . urlencode($userName) . "&userEmail=" . urlencode($userEmail) . "&lang={$lang}&type=0&activityUrl=" . urlencode($activityUrl);
    
-   $smowlUrl = "https://app.smowltech.net/register/?
-    entityName={$entityName}&
-    token={$token}&
-    userName=" . urlencode($userName) . "&
-    userEmail=" . urlencode($userEmail) . "&
-    lang={$lang}&
-    type=0&activityUrl=" . urlencode($activityUrl);
+   $smowlUrl = SMOWL_URL . "?entityName={$entityName}&token={$token}&userName=" . urlencode($userName) . "&userEmail=" . urlencode($userEmail) . "&lang={$lang}&type=0&activityUrl=" . urlencode($activityUrl);
 ?>
 
 

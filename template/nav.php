@@ -3,7 +3,7 @@
   <!-- <a class="navbar-brand" href="#">DMC</a> -->
 
   <!-- <img class="h-log2" src="../../img/logo dmc.png" width="7%"> -->
-    <button onclick="paginaDmc()" style="border: none; background: none;"><img class="h-log2" src="/certificaciones/img/logo%20secundario%20dmc%20institute-01.png" style="width: 110px; height: 70px;"></button>
+    <button onclick="paginaDmc()" style="border: none; background: none;"><img class="h-log2" src="../../img/logo%20secundario%20dmc%20institute-01.png" style="width: 110px; height: 70px;"></button>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>

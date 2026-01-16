@@ -1,2 +1,26 @@
 /vendor
 /.htaccess
+
+# Ignorar archivos de configuración con datos sensibles
+config/config.php
+
+# Ignorar archivos temporales y de logs
+*.log
+*.tmp
+temp/
+cache/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignorar archivos de configuración locales
+.env
+.env.local
+.env.production
